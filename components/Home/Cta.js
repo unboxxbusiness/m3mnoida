@@ -13,7 +13,7 @@ const Cta = () => {
               width={1920}
               height={1280}
             />
-            <div className="relative bg-opacity-75 bg-deep-purple-accent-700">
+            <div className="relative bg-opacity-75 bg-gray-950">
               <svg
                 className="absolute inset-x-0 bottom-0 text-white"
                 viewBox="0 0 1160 163"
