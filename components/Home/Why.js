@@ -97,7 +97,7 @@ const Why = () => {
                     Premium Residences and Business Spaces at M3M Noida
                     </h6>
                     <p className="text-sm text-gray-950">
-                    Explore premium 2 BHK, 3 BHK, and 4 BHK living spaces alongside commercial and retail areas at M3M Noida. The thoughtfully designed floor plan ensures a premium experience. Enjoy lush green surroundings with landscaping, trees, and sustainable features like water conservation and energy efficiency, making it an environmentally conscious choice.
+                    Explore premium 3 BHK, 4 BHK, and 5 BHK living spaces alongside commercial and retail areas at M3M Noida. The thoughtfully designed floor plan ensures a premium experience. Enjoy lush green surroundings with landscaping, trees, and sustainable features like water conservation and energy efficiency, making it an environmentally conscious choice.
                     </p>
                     <hr className="w-full my-6 border-gray-300" />
                   </div>
