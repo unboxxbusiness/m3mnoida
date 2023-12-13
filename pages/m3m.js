@@ -20,12 +20,14 @@ export default function Home() {
         <link rel="icon" type="image/png" sizes="32x32" href="favicon.ico" />
       </Head>
    <Header />
-   <Project />
-   <Why />
    <Gallery />
+   
+   <Why />
+   
    
   
    <Features />
+   <Project />
   
    
   

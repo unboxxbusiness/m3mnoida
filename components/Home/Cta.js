@@ -28,10 +28,10 @@ const Cta = () => {
                   <div className="w-full max-w-xl mb-12 xl:mb-0 xl:pr-16 xl:w-7/12">
                     <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-white sm:text-4xl sm:leading-none">
                       M3M Luxury <br className="hidden md:block" />
-                     Apartments 2/3/4 BHK
+                     Apartments 3/4/5 BHK
                     </h2>
                     <p className="max-w-xl mb-4 text-base text-gray-200 md:text-lg">
-                    M3M Noida: Experience luxury in our 2/3/4 BHK apartments, blending comfort and sophistication for elevated living.
+                    M3M Noida: Experience luxury in our 3/4/5 BHK apartments, blending comfort and sophistication for elevated living.
                     </p>
                     <Link href="tel:+919650833378"
                       aria-label=""

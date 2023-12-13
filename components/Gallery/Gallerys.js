@@ -33,7 +33,7 @@ const Gallery = () => {
 
   return (
     <div className="container mx-auto p-8">
-      <h1 className="text-3xl font-bold mb-4 text-center">M3M Noida Sector-94</h1>
+      <h1 className="text-3xl font-bold mb-4 text-center">M3M Noida Sector-94 Gallery</h1>
       <Slider {...settings} className="mb-8">
         {images.map((image, index) => (
           <div key={index} className="relative h-96">

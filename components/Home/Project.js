@@ -37,7 +37,7 @@ const Project = () => {
                   </svg>
                   <span className="relative">Introducing</span>
                 </span>{' '}
-Residences with 2, 3 & 4 BHK options
+Residences with  3,4 & 5 BHK options
 Starting at <strong className='animate-ping'>6.5 CR*</strong>
               </h2>
               <p className="text-base text-gray-950 md:text-lg">

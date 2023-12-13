@@ -36,7 +36,7 @@ const Detail = () => {
                   </svg>
                   <span className="relative">M3M</span>
                 </span>{' '}
-                Luxury Apartments 2/3/4 BHK
+                Luxury Apartments 3/4/5 BHK
               </h2>
               <p className="text-base text-gray-700 md:text-lg">
               M3M Sector 94 Noida: New luxury project by M3M India, featuring upscale apartments and villas with top-notch amenities in a prime Noida location.
