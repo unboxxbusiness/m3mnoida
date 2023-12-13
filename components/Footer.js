@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
+import Text from './About/Text'
 const Footer = () => {
   return (
 <>
@@ -35,16 +36,11 @@ const Footer = () => {
           <span className="font-bold">High Demand Luxury Project </span> Trust of 1.2 lac people, timely delivery of 2 cr sq ft, 18.5 lakh+ sq.m, expertise from 45+ projects.
         </p>
         <div className="flex items-center">
-         <Link href="/m3m"> <button
-            type="submit"
-            className="inline-flex items-center justify-center h-12 px-6 mr-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-deep-purple-accent-400 hover:bg-deep-purple-accent-700 focus:shadow-outline focus:outline-none"
-          >
-           Explore
-          </button></Link>
+         
           <Link
             href="tel:+919650833378"
             aria-label=""
-            className="animate-bounce inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
+            className="animate-bounce inline-flex items-center justify-center h-12 px-6 mr-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-deep-purple-accent-400 hover:bg-deep-purple-accent-700 focus:shadow-outline focus:outline-none"
           >
             Enquiry Now
             <svg
@@ -60,7 +56,7 @@ const Footer = () => {
     </div>
   </div>
 
-
+<Text />
 
     <section className="py-12 bg-gray-950">
     <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">

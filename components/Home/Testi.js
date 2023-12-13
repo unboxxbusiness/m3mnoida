@@ -38,7 +38,7 @@ const Testi = () => {
                     </svg>
                     <span className="relative">*</span>
                   </span>{' '}
-                 Rohit Kapoor
+                 M3M Noida Sector 94
                 </h2>
                 <p className="text-base text-gray-700 md:text-lg">
                 Exceptional counseling at M3M Noida! Insightful guidance, professional team. Confident I am investing in more than a property – its a lifestyle. Highly recommended!

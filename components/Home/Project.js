@@ -77,7 +77,7 @@ Starting at <strong className='animate-ping'>6.5 CR*</strong>
             <div className="flex items-center sm:justify-center">
               
               <Link
-                href="/m3m"
+                href="tel:+919650833378"
                 aria-label=""
                 className="animate-bounce inline-flex items-center justify-center h-12 px-6 mr-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-gray-950 hover:bg-deep-purple-accent-700 focus:shadow-outline focus:outline-none"
               >
